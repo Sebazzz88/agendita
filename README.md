@@ -4,7 +4,7 @@
 
 <h1 align="center">Agendita</h1>
 
-<p align="center"><b>by Sebastian</b> · hecho con cariño :)</p>
+<p align="center"><b>by Sebastian</b> · hecha con cariño para mi novia :)</p>
 
 Calendario de recordatorios con estilo tropical oscuro y vidrio líquido. Cada tarea va en una de tres categorías, y cada una avisa a su ritmo:
 
@@ -26,7 +26,7 @@ Hay dos versiones:
 </p>
 
 <p align="center">
-  <b><a href="https://github.com/Sebazzz88/organizador-de-tiempo-/raw/main/apk/Agendita.apk">Descargar Agendita.apk</a></b><br>
+  <b><a href="https://github.com/Sebazzz88/agendita/raw/main/apk/Agendita.apk">Descargar Agendita.apk</a></b><br>
   Versión 1.3 · 3.6 MB
 </p>
 
@@ -202,7 +202,7 @@ Sirve para usar el calendario en la computadora o en un iPhone. Es la versión w
 
 ### En la computadora
 
-1. Entra a https://github.com/Sebazzz88/organizador-de-tiempo-
+1. Entra a https://github.com/Sebazzz88/agendita
 2. Toca el botón verde **Code** y luego **Download ZIP**.
 3. Busca el ZIP en tu carpeta de Descargas, haz clic derecho y elige **Extraer todo**.
 4. Abre la carpeta y haz doble clic en `agendita.html`. Se abre en tu navegador.
@@ -211,7 +211,7 @@ Sirve para usar el calendario en la computadora o en un iPhone. Es la versión w
 Si usas git, también puedes descargarlo con:
 
 ```
-git clone https://github.com/Sebazzz88/organizador-de-tiempo-.git
+git clone https://github.com/Sebazzz88/agendita.git
 ```
 
 **Importante:** ábrelo siempre con el mismo navegador y desde la misma carpeta. Tus tareas se guardan en ese navegador, así que si lo abres con otro navegador o lo mueves de carpeta, aparecerá vacío.
@@ -223,7 +223,7 @@ Primero hay que publicar la página con GitHub Pages (solo se hace una vez):
 1. En el repositorio, entra a **Settings** y luego a **Pages**.
 2. En **Source**, elige **Deploy from a branch**. En **Branch**, elige `main` y la carpeta `/ (root)`. Toca **Save**.
 3. Espera uno o dos minutos. La página queda en:
-   https://sebazzz88.github.io/organizador-de-tiempo-/agendita.html
+   https://sebazzz88.github.io/agendita/agendita.html
 
 Después, en el celular:
 
